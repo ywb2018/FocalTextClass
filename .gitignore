@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#mine
+.idea/
+__pycache__/
+BaseBertModel/
+Bert-wwm-ext/
+data/
+check.txt
+new_data.txt
